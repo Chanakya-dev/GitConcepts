@@ -75,7 +75,7 @@
 | Code review         | Pull Requests                              |
 | Syncing forked repo | `git remote add upstream` + `fetch`        |
 | Squash and merge    | Clean commit history                       |
-| Rebase              | Linear history (advanced)                  |
+| Rebase  **            | Linear history (advanced)                  |
 | Tags & Releases     | Create versioned releases                  |
 
 ---
